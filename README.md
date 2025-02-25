@@ -7,7 +7,7 @@
  
  Zoom out to see the scene.
  
- Complete each level in time.
+ Complete each lap in time.
  
  
  
